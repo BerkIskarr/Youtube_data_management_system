@@ -1,0 +1,24 @@
+60730027 Artists Guild 3.63158
+30015494 Book Club 1.61111
+31064071 Comedy House 5.10638
+30304 DIY Workshop 3.05085
+0001 Nicola Tesla
+29753356 Education Forum 5.79592
+34865169 Fashion World 5.49057
+15990804 Fit Club 4.08333
+0002 Albert Einstein
+15990804 Gamers Zone 2.3913
+10950582 Gourmet Station 11.8095
+22743516 Health Care 48.3333
+69424582 History Channel 3.94643
+23911143 Lifestyle Channel 8.61905
+93772603 Movie Critics 11.4375
+77881546 Music Avenue 3.25
+57056038 Nature Lovers 4.76
+48494404 News Network 6.51724
+21193732 Science Network 4.08511
+11110251 Sports Network 4.30645
+88491309 Tech Central 4.97959
+22402177 Travelers Hub 2.19565
+67876867 Ytu Yui 0
+00056 Bbb Hhh
